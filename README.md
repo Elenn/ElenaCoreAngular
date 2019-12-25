@@ -2,7 +2,7 @@
 1. Download project to your computer.
 I have saved it in C:\web\AspCore\ElenaCoreAngular
 
-2.cd to ClientApp folder of your project in cmd console.
+2. cd to ClientApp folder of your project in cmd console.
 I have typed:
 
 cd C:\web\AspCore\ElenaCoreAngular\BlogElena\ClientApp
