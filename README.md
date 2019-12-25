@@ -10,7 +10,7 @@ I have typed:
 3. type in cmd console:
     npm install
 
-4. Open Visual Studio 2017
+4. Open Visual Studio 2017.
     Run in Visual Studio
 
 5. Check that database BlogElenaContext was created:
