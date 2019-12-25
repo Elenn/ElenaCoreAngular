@@ -1,0 +1,15 @@
+C:\web\AspCore\BlogElena\BlogElena\bin\Debug\netcoreapp2.1\BlogElena.deps.json
+C:\web\AspCore\BlogElena\BlogElena\bin\Debug\netcoreapp2.1\BlogElena.runtimeconfig.json
+C:\web\AspCore\BlogElena\BlogElena\bin\Debug\netcoreapp2.1\BlogElena.runtimeconfig.dev.json
+C:\web\AspCore\BlogElena\BlogElena\bin\Debug\netcoreapp2.1\BlogElena.dll
+C:\web\AspCore\BlogElena\BlogElena\obj\Debug\netcoreapp2.1\BlogElena.csproj.CoreCompileInputs.cache
+C:\web\AspCore\BlogElena\BlogElena\obj\Debug\netcoreapp2.1\BlogElena.RazorAssemblyInfo.cache
+C:\web\AspCore\BlogElena\BlogElena\obj\Debug\netcoreapp2.1\BlogElena.RazorAssemblyInfo.cs
+C:\web\AspCore\BlogElena\BlogElena\obj\Debug\netcoreapp2.1\BlogElena.AssemblyInfoInputs.cache
+C:\web\AspCore\BlogElena\BlogElena\obj\Debug\netcoreapp2.1\BlogElena.AssemblyInfo.cs
+C:\web\AspCore\BlogElena\BlogElena\obj\Debug\netcoreapp2.1\BlogElena.RazorTargetAssemblyInfo.cache
+C:\web\AspCore\BlogElena\BlogElena\bin\Debug\netcoreapp2.1\BlogElena.pdb
+C:\web\AspCore\BlogElena\BlogElena\obj\Debug\netcoreapp2.1\BlogElena.dll
+C:\web\AspCore\BlogElena\BlogElena\obj\Debug\netcoreapp2.1\BlogElena.pdb
+C:\web\AspCore\BlogElena\BlogElena\bin\Debug\netcoreapp2.1\appsettings.json
+C:\web\AspCore\BlogElena\BlogElena\obj\Debug\netcoreapp2.1\BlogElena.csprojAssemblyReference.cache
