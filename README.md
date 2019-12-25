@@ -7,7 +7,7 @@ I have typed:
 
     cd C:\web\AspCore\ElenaCoreAngular\BlogElena\ClientApp
 
-3. type in cmd console:
+3. Type in cmd console:
     npm install
 
 4. Open Visual Studio 2017.
