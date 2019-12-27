@@ -11,6 +11,7 @@ I have typed:
     npm install
 
 4. Open Visual Studio 2017.
+    
     Run in Visual Studio
 
 5. Check that database BlogElenaContext was created:
